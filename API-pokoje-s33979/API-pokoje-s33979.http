@@ -1,0 +1,6 @@
+@API_pokoje_s33979_HostAddress = http://localhost:5223
+
+GET {{API_pokoje_s33979_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

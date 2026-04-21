@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-pokoje-s33979", "API-pokoje-s33979\API-pokoje-s33979.csproj", "{2EE7E94C-F181-4DF7-8220-023A4A99CA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE7E94C-F181-4DF7-8220-023A4A99CA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE7E94C-F181-4DF7-8220-023A4A99CA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE7E94C-F181-4DF7-8220-023A4A99CA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE7E94C-F181-4DF7-8220-023A4A99CA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
